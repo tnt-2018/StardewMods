@@ -1,0 +1,11 @@
+{
+  "Format": "1.6",
+  "Changes": [
+       // replace an entire file
+       {
+          "Action": "Load",
+          "Target": "Strings/StringsFromCSFiles",
+          "FromFile": "assets/StringsFromCSFiles.xnb"
+       }
+    ]
+}

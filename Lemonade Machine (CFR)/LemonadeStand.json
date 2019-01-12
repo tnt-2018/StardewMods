@@ -1,0 +1,127 @@
+{
+  "name": "Lemonade Stand",
+  "author": "TNT",
+  "version": "1.0.0",
+  "machines": [
+    {
+      "id": 1,
+      "name": "Lemonade Stand",
+      "description": "Turn fruit tree fruits into lemonade!",
+      "category": "Crafting",
+      "crafting": "388 20 390 30 86 1",
+      "texture": "lemonadestand.png",
+      "tileindex": 0,
+      "pulsate": true,
+      "production": [
+        {
+          "name": "Apple Lemonade",
+          "description": "Apple flavoured lemonade",
+          "category": "Lemonade",
+          "prefix": false,
+          "colored": false,
+          "index": 900,
+          "price": "400",
+          "time": 2880,
+          "texture": "apple.png",
+          "tileindex": 0,
+          "materials": [
+            {
+              "index": 613,
+              "stack": 1
+            }
+          ]
+        },
+        {
+          "name": "Pomegranate Lemonade",
+          "description": "Pomegranate flavoured lemonade",
+          "category": "Lemonade",
+          "prefix": false,
+          "colored": false,
+          "index": 900,
+          "price": "560",
+          "time": 2880,
+          "texture": "pomegranate.png",
+          "tileindex": 0,
+          "materials": [
+            {
+              "index": 637,
+              "stack": 1
+            }
+          ]
+        },
+		{
+          "name": "Peach Lemonade",
+          "description": "Peach flavoured lemonade",
+          "category": "Lemonade",
+          "prefix": false,
+          "colored": false,
+          "index": 900,
+          "price": "560",
+          "time": 2880,
+          "texture": "peach.png",
+          "tileindex": 0,
+          "materials": [
+            {
+              "index": 636,
+              "stack": 1
+            }
+          ]
+        },
+		{
+          "name": "Orange Lemonade",
+          "description": "Orange flavoured lemonade",
+          "category": "Lemonade",
+          "prefix": false,
+          "colored": false,
+          "index": 900,
+          "price": "400",
+          "time": 2880,
+          "texture": "orange.png",
+          "tileindex": 0,
+          "materials": [
+            {
+              "index": 635,
+              "stack": 1
+            }
+          ]
+        },
+		{
+          "name": "Cherry Lemonade",
+          "description": "Cherry flavoured lemonade",
+          "category": "Lemonade",
+          "prefix": false,
+          "colored": false,
+          "index": 900,
+          "price": "320",
+          "time": 2880,
+          "texture": "cherry.png",
+          "tileindex": 0,
+          "materials": [
+            {
+              "index": 638,
+              "stack": 1
+            }
+          ]
+        },
+		{
+          "name": "Apricot Lemonade",
+          "description": "Apricot flavoured lemonade",
+          "category": "Lemonade",
+          "prefix": false,
+          "colored": false,
+          "index": 900,
+          "price": "200",
+          "time": 2880,
+          "texture": "apricot.png",
+          "tileindex": 0,
+          "materials": [
+            {
+              "index": 634,
+              "stack": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

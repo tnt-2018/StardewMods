@@ -1,0 +1,12 @@
+{
+  "Name": "Better TV Dialogue",
+  "Author": "TNT",
+  "Version": "1.0.1",
+  "MinimumApiVersion": "2.9.0",
+  "Description": "Changes the TV dialogue, to contain more enthusiasm, or to change from the original text",
+  "UniqueID": "TNT.BetterTVDialogue",
+  "ContentPackFor": {
+	"UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "UpdateKeys": [ "Nexus:3222" ]
+}

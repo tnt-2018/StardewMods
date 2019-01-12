@@ -1,0 +1,10 @@
+{
+   "Name": "Lemonade Machine (CFR)",
+   "Author": "TNT",
+   "Description": "Create lemonade from fruit tree fruits.",
+   "Version": "1.6.0",
+   "UniqueID": "TNT.LemonadeMachine",
+   "ContentPackFor": {
+       "UniqueID": "Platonymous.CustomFarming"
+    }
+}
